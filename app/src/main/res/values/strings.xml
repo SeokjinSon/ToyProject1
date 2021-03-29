@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ToyProject1</string>
+    <string name="homepageTitle">Today\'s Certificate</string>
+    <string name="searchpageTitle">searchpageTitle</string>
+    <string name="mypageTitle">mypageTitle</string>
+</resources>
